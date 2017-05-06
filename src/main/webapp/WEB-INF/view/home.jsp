@@ -35,29 +35,29 @@
 			<div class="carousel-inner">
 				<div class="item active">
 					<img
-						src="http://www.biotechnutrition.co.za/images/new/Whey-Banner.jpg"
+						src="https://globaltennis.ca/wp-content/uploads/2015/07/fitness-page-banner-1200x500-2.jpg"
 						alt="Whey Protein" style="width: 100%;">
 				</div>
 
 				<div class="item">
 					<img
-						src="http://biotechsportsnutrition.com/images/new/Allproducts-Banner.jpg"
+						src="http://www.stylehealthandfitness.co.uk/wp-content/uploads/2014/12/slider-fitness2.jpg"
 						alt="Isolate Protein" style="width: 100%;">
 				</div>
 
 				<div class="item">
 					<img
-						src="http://www.biotechnutrition.co.za/images/new/Creatine-Banner.jpg"
+						src="http://rachelkalil.com/wp-content/uploads/2016/02/062_erincosta-1200x500.jpg"
 						alt="Creatine" style="width: 100%;">
 				</div>
 
 				<div class="item">
-					<img src="http://biotechnutrition.co.za/images/BCAA-Banner.jpg"
+					<img src="http://classicbodyworksgym.com/wp-content/uploads/slider-003.png"
 						alt="Fat Burner" style="width: 100%;">
 				</div>
 
 				<div class="item">
-					<img src="images/banner2.jpg" alt="Gym Accessories" width="100%"
+					<img src="http://www.getgym.pl/wp-content/uploads/2016/11/maciek-baner-jpg-1.jpg" alt="Gym Accessories" width="100%"
 						height="364">
 				</div>
 			</div>

@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Navigation Bar</title>
+<title>Header</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet"
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -16,7 +16,7 @@
 </head>
 <body>
 
-	<nav class="navbar navbar-inverse navbar-fixed-top">
+	<nav class="navbar navbar-inverse">
 	<div class="container-fluid">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle" data-toggle="collapse"
@@ -25,7 +25,7 @@
 					class="icon-bar"></span>
 			</button>
 			<a class="navbar-brand" href="#"><img
-				src="..\logo\logo250by125.png" class="img-responsive"></a>
+				src="images/logo250by125.png" class="img-responsive"></a>
 		</div>
 		<div class="collapse navbar-collapse" id="myNavbar">
 			<ul class="nav navbar-nav navbar-right">
